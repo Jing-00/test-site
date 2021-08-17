@@ -1,5 +1,32 @@
 
-html{
-    font-size: 25px;
+html {
+    font-size: 20px;
     font-family: 'Open Sans Condensed', sans-serif;
+    background-color: paleturquoise;
+}
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px beige;
+}
+
+p, li {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: pink;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
 }
